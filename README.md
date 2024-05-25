@@ -5,7 +5,7 @@ Welcome to my digital sandbox, where I tinker with code, wrestle with algorithms
 ## Who am I? 🤔
 
 - **Coding enthusiast** since the age of 13 - turns out video games weren't enough of a challenge!
-- **Back-End Developer** (geared up with a **Meta certification** in progress!)
+- **Back-End Developer** (geared up with a **Meta certification**)
 - **Current student** at **Bangor University**, balancing the world of bits with the knowledge of finance through a Bachelor's in **Accounting & Finance**.
 
 ## What will you find here? 🔍
